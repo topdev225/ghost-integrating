@@ -1,0 +1,19 @@
+Executable : D:\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HD:\REACT\ghost-app\ghost-app\android\app
+-BD:\REACT\ghost-app\ghost-app\android\app\.externalNativeBuild\cmake\release\x86_64
+-DANDROID_ABI=x86_64
+-DANDROID_PLATFORM=android-18
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\REACT\ghost-app\ghost-app\android\app\build\intermediates\cmake\release\obj\x86_64
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=D:\Sdk\ndk-bundle
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DCMAKE_SYSTEM_VERSION=18
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_ANDROID_NDK=D:\Sdk\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=D:\Sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-G Ninja
+-DCMAKE_MAKE_PROGRAM=D:\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+jvmArgs : 
+

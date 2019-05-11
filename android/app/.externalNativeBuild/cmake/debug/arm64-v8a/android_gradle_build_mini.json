@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "D:\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "D:\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "D:\\REACT\\ghost-app\\ghost-app\\android\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\REACT\\ghost-app\\ghost-app\\android\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "PjSipModuleJNI-Debug-arm64-v8a": {
+      "artifactName": "PjSipModuleJNI",
+      "buildCommand": "D:\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\REACT\\ghost-app\\ghost-app\\android\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target PjSipModuleJNI",
+      "abi": "arm64-v8a",
+      "output": "D:\\REACT\\ghost-app\\ghost-app\\android\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libPjSipModuleJNI.so"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+# ninja log v5
+1	9043	573484230	CMakeFiles/PjSipModuleJNI.dir/src/main/cpp/ifaddrs.c.o	f3347707f7fb2dcc
+2	11475	573484232	CMakeFiles/PjSipModuleJNI.dir/src/main/cpp/PjSipModuleJNI.cpp.o	4a114c4469161e3e
+2	11481	573484232	CMakeFiles/PjSipModuleJNI.dir/src/main/cpp/PjSipModule.cpp.o	d6c6e23db1ce4201

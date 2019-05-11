@@ -1,0 +1,19 @@
+[
+{
+  "directory": "D:/REACT/ghost-app/ghost-app/android/app/.externalNativeBuild/cmake/release/x86_64",
+  "command": "D:\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DPjSipModuleJNI_EXPORTS -I../../../../src/main/java/PjLib/pjlib/include -I../../../../src/main/java/PjLib/pjlib-util/include -I../../../../src/main/java/PjLib/pjmedia/include -I../../../../src/main/java/PjLib/pjnath/include -I../../../../src/main/java/PjLib/pjsip/include -I../../../../src/main/java/PjLib/third_party  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\PjSipModuleJNI.dir\\src\\main\\cpp\\ifaddrs.c.o   -c D:\\REACT\\ghost-app\\ghost-app\\android\\app\\src\\main\\cpp\\ifaddrs.c",
+  "file": "D:/REACT/ghost-app/ghost-app/android/app/src/main/cpp/ifaddrs.c"
+},
+
+{
+  "directory": "D:/REACT/ghost-app/ghost-app/android/app/.externalNativeBuild/cmake/release/x86_64",
+  "command": "D:\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DPjSipModuleJNI_EXPORTS -I../../../../src/main/java/PjLib/pjlib/include -I../../../../src/main/java/PjLib/pjlib-util/include -I../../../../src/main/java/PjLib/pjmedia/include -I../../../../src/main/java/PjLib/pjnath/include -I../../../../src/main/java/PjLib/pjsip/include -I../../../../src/main/java/PjLib/third_party  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -std=c++11 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\PjSipModuleJNI.dir\\src\\main\\cpp\\PjSipModule.cpp.o -c D:\\REACT\\ghost-app\\ghost-app\\android\\app\\src\\main\\cpp\\PjSipModule.cpp",
+  "file": "D:/REACT/ghost-app/ghost-app/android/app/src/main/cpp/PjSipModule.cpp"
+},
+
+{
+  "directory": "D:/REACT/ghost-app/ghost-app/android/app/.externalNativeBuild/cmake/release/x86_64",
+  "command": "D:\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DPjSipModuleJNI_EXPORTS -I../../../../src/main/java/PjLib/pjlib/include -I../../../../src/main/java/PjLib/pjlib-util/include -I../../../../src/main/java/PjLib/pjmedia/include -I../../../../src/main/java/PjLib/pjnath/include -I../../../../src/main/java/PjLib/pjsip/include -I../../../../src/main/java/PjLib/third_party  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -std=c++11 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\PjSipModuleJNI.dir\\src\\main\\cpp\\PjSipModuleJNI.cpp.o -c D:\\REACT\\ghost-app\\ghost-app\\android\\app\\src\\main\\cpp\\PjSipModuleJNI.cpp",
+  "file": "D:/REACT/ghost-app/ghost-app/android/app/src/main/cpp/PjSipModuleJNI.cpp"
+}
+]

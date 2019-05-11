@@ -1,0 +1,3 @@
+/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/PjSipModuleJNI.dir

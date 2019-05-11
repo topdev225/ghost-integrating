@@ -1,0 +1,65 @@
+[1/3] Building CXX object CMakeFiles/PjSipModuleJNI.dir/src/main/cpp/PjSipModule.cpp.o
+[2/3] Building CXX object CMakeFiles/PjSipModuleJNI.dir/src/main/cpp/PjSipModuleJNI.cpp.o
+In file included from /Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/src/main/cpp/PjSipModuleJNI.cpp:2:
+In file included from /Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/src/main/cpp/PjSipModule.h:8:
+In file included from ../../../../src/main/java/PjLib/pjsip/include/pjsua.h:1:
+In file included from ../../../../src/main/java/PjLib/pjsip/include/pjsua-lib/pjsua.h:30:
+In file included from ../../../../src/main/java/PjLib/pjsip/include/pjsip.h:24:
+In file included from ../../../../src/main/java/PjLib/pjsip/include/pjsip/sip_types.h:34:
+In file included from ../../../../src/main/java/PjLib/pjsip/include/pjsip/sip_config.h:27:
+In file included from ../../../../src/main/java/PjLib/pjlib/include/pj/types.h:33:
+In file included from ../../../../src/main/java/PjLib/pjlib/include/pj/config.h:177:
+../../../../src/main/java/PjLib/pjlib/include/pj/compat/m_auto.h:55:9: warning: 'PJ_HAS_FLOATING_POINT' macro redefined [-Wmacro-redefined]
+#define PJ_HAS_FLOATING_POINT 1
+        ^
+../../../../src/main/java/PjLib/pjlib/include/pj/config_site_sample.h:374:13: note: previous definition is here
+    #define PJ_HAS_FLOATING_POINT               0
+            ^
+1 warning generated.
+In file included from /Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/src/main/cpp/PjSipModule.cpp:1:
+In file included from /Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/src/main/cpp/PjSipModule.h:8:
+In file included from ../../../../src/main/java/PjLib/pjsip/include/pjsua.h:1:
+In file included from ../../../../src/main/java/PjLib/pjsip/include/pjsua-lib/pjsua.h:30:
+In file included from ../../../../src/main/java/PjLib/pjsip/include/pjsip.h:24:
+In file included from ../../../../src/main/java/PjLib/pjsip/include/pjsip/sip_types.h:34:
+In file included from ../../../../src/main/java/PjLib/pjsip/include/pjsip/sip_config.h:27:
+In file included from ../../../../src/main/java/PjLib/pjlib/include/pj/types.h:33:
+In file included from ../../../../src/main/java/PjLib/pjlib/include/pj/config.h:177:
+../../../../src/main/java/PjLib/pjlib/include/pj/compat/m_auto.h:55:9: warning: 'PJ_HAS_FLOATING_POINT' macro redefined [-Wmacro-redefined]
+#define PJ_HAS_FLOATING_POINT 1
+        ^
+../../../../src/main/java/PjLib/pjlib/include/pj/config_site_sample.h:374:13: note: previous definition is here
+    #define PJ_HAS_FLOATING_POINT               0
+            ^
+/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/src/main/cpp/PjSipModule.cpp:94:29: warning: ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+            cfg.id = pj_str("sip:" SIP_USER "@" SIP_DOMAIN);
+                            ^
+/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/src/main/cpp/PjSipModule.cpp:97:45: warning: ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+            cfg.cred_info[0].realm = pj_str(SIP_DOMAIN);
+                                            ^
+/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/src/main/cpp/PjSipModule.h:22:20: note: expanded from macro 'SIP_DOMAIN'
+#define SIP_DOMAIN "sip.ghostchat.app"
+                   ^
+/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/src/main/cpp/PjSipModule.cpp:98:46: warning: ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+            cfg.cred_info[0].scheme = pj_str("digest");
+                                             ^
+/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/src/main/cpp/PjSipModule.cpp:99:48: warning: ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+            cfg.cred_info[0].username = pj_str(SIP_USER);
+                                               ^
+/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/src/main/cpp/PjSipModule.h:23:18: note: expanded from macro 'SIP_USER'
+#define SIP_USER "android"
+                 ^
+/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/src/main/cpp/PjSipModule.cpp:101:44: warning: ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+            cfg.cred_info[0].data = pj_str(SIP_PASSWD);
+                                           ^
+/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/src/main/cpp/PjSipModule.h:24:20: note: expanded from macro 'SIP_PASSWD'
+#define SIP_PASSWD "s3cr3tp455w0rdz!!"
+                   ^
+/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/src/main/cpp/PjSipModule.cpp:179:35: warning: ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+        pj_str_t call_to = pj_str("sip:ghostcall@sip.ghostchat.app:5066");
+                                  ^
+/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/src/main/cpp/PjSipModule.cpp:185:51: warning: ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+            pj_str_t headerKey = (pj_str_t)pj_str("CallerID");
+                                                  ^
+8 warnings generated.
+[3/3] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libPjSipModuleJNI.so

@@ -1,0 +1,14 @@
+Executable : /Users/john/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app
+-B/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/.externalNativeBuild/cmake/debug/armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-18
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=/Users/john/Library/Android/sdk/ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=/Users/john/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/john/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

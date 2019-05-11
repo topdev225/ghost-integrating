@@ -1,0 +1,3 @@
+D:/REACT/ghost-app/ghost-app/android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+D:/REACT/ghost-app/ghost-app/android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/PjSipModuleJNI.dir
+D:/REACT/ghost-app/ghost-app/android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir

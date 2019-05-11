@@ -1,0 +1,121 @@
+{
+  "buildFiles": [
+    "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/john/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "libilbccodec-Debug-armeabi-v7a": {
+      "artifactName": "libilbccodec",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libilbccodec-arm-unknown-linux-androideabi.a"
+    },
+    "libpjmedia-audiodev-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libpjmedia-audiodev-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libpjmedia-audiodev-arm-unknown-linux-androideabi.a"
+    },
+    "libpjsip-simple-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libpjsip-simple-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libpjsip-simple-arm-unknown-linux-androideabi.a"
+    },
+    "libwebrtc-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libwebrtc-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libwebrtc-arm-unknown-linux-androideabi.a"
+    },
+    "libspeex-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libspeex-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libspeex-arm-unknown-linux-androideabi.a"
+    },
+    "libpjsip-ua-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libpjsip-ua-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libpjsip-ua-arm-unknown-linux-androideabi.a"
+    },
+    "libyuv-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libyuv-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libyuv-arm-unknown-linux-androideabi.a"
+    },
+    "libsrtp-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libsrtp-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libsrtp-arm-unknown-linux-androideabi.a"
+    },
+    "libpjlib-util-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libpjlib-util-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libpjlib-util-arm-unknown-linux-androideabi.a"
+    },
+    "libpjsua2-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libpjsua2-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libpjsua2-arm-unknown-linux-androideabi.a"
+    },
+    "libgsmcodec-Debug-armeabi-v7a": {
+      "artifactName": "libgsmcodec",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libgsmcodec-arm-unknown-linux-androideabi.a"
+    },
+    "libpjsua-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libpjsua-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libpjsua-arm-unknown-linux-androideabi.a"
+    },
+    "PjSipModuleJNI-Debug-armeabi-v7a": {
+      "artifactName": "PjSipModuleJNI",
+      "buildCommand": "/Users/john/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target PjSipModuleJNI",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libPjSipModuleJNI.so"
+    },
+    "libpjmedia-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libpjmedia-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libpjmedia-arm-unknown-linux-androideabi.a"
+    },
+    "libpjmedia-codec-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libpjmedia-codec-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libpjmedia-codec-arm-unknown-linux-androideabi.a"
+    },
+    "libpjmedia-videodev-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libpjmedia-videodev-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libpjmedia-videodev-arm-unknown-linux-androideabi.a"
+    },
+    "libpjsip-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libpjsip-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libpjsip-arm-unknown-linux-androideabi.a"
+    },
+    "libpjnath-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libpjnath-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libpjnath-arm-unknown-linux-androideabi.a"
+    },
+    "libg7221codec-Debug-armeabi-v7a": {
+      "artifactName": "libg7221codec",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libg7221codec-arm-unknown-linux-androideabi.a"
+    },
+    "libpj-Debug-armeabi-v7a": {
+      "artifactName": "libpj",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libpj-arm-unknown-linux-androideabi.a"
+    },
+    "libresample-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libresample-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libresample-arm-unknown-linux-androideabi.a"
+    },
+    "libpjsdp-arm-unknown-linux-androideabi.a-Debug-armeabi-v7a": {
+      "artifactName": "libpjsdp-arm-unknown-linux-androideabi.a",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/Work/ReactNative/com.symbaventures.ghost/android/app/../native_libs/armeabi-v7a/libpjsdp-arm-unknown-linux-androideabi.a"
+    }
+  }
+}

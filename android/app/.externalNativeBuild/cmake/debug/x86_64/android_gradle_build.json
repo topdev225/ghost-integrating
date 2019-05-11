@@ -1,0 +1,60 @@
+{
+  "stringTable": {
+    "0": "D:/REACT/ghost-app/ghost-app/android/app/.externalNativeBuild/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DPjSipModuleJNI_EXPORTS -I../../../../src/main/java/PjLib/pjlib/include -I../../../../src/main/java/PjLib/pjlib-util/include -I../../../../src/main/java/PjLib/pjmedia/include -I../../../../src/main/java/PjLib/pjnath/include -I../../../../src/main/java/PjLib/pjsip/include -I../../../../src/main/java/PjLib/third_party -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DPjSipModuleJNI_EXPORTS -I../../../../src/main/java/PjLib/pjlib/include -I../../../../src/main/java/PjLib/pjlib-util/include -I../../../../src/main/java/PjLib/pjmedia/include -I../../../../src/main/java/PjLib/pjnath/include -I../../../../src/main/java/PjLib/pjsip/include -I../../../../src/main/java/PjLib/third_party -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -O0 -fno-limit-debug-info -fPIC",
+    "3": "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -std=c++11 -O0 -fno-limit-debug-info  -fPIC  ",
+    "4": "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  "
+  },
+  "buildFiles": [
+    "D:\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "D:\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "D:\\REACT\\ghost-app\\ghost-app\\android\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\REACT\\ghost-app\\ghost-app\\android\\app\\.externalNativeBuild\\cmake\\debug\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "PjSipModuleJNI-Debug-x86_64": {
+      "buildCommand": "D:\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\REACT\\ghost-app\\ghost-app\\android\\app\\.externalNativeBuild\\cmake\\debug\\x86_64 --target PjSipModuleJNI",
+      "buildType": "debug",
+      "toolchain": "1584595666",
+      "abi": "x86_64",
+      "artifactName": "PjSipModuleJNI",
+      "files": [
+        {
+          "src": "D:\\REACT\\ghost-app\\ghost-app\\android\\app\\src\\main\\cpp\\PjSipModule.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\REACT\\ghost-app\\ghost-app\\android\\app\\src\\main\\cpp\\PjSipModuleJNI.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\REACT\\ghost-app\\ghost-app\\android\\app\\src\\main\\cpp\\ifaddrs.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\REACT\\ghost-app\\ghost-app\\android\\app\\src\\main\\cpp\\ifaddrs.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "D:\\REACT\\ghost-app\\ghost-app\\android\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libPjSipModuleJNI.so"
+    }
+  },
+  "toolchains": {
+    "1584595666": {
+      "cCompilerExecutable": "D:\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "D:\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

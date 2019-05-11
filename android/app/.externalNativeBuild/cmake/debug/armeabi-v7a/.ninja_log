@@ -1,0 +1,8 @@
+# ninja log v5
+0	3176	0	CMakeFiles/PjSipModuleJNI.dir/src/main/cpp/ifaddrs.c.o	95166bf7fa5dcdd2
+1	3950	0	CMakeFiles/PjSipModuleJNI.dir/src/main/cpp/PjSipModuleJNI.cpp.o	e9f33fde1837e723
+1	3951	0	CMakeFiles/PjSipModuleJNI.dir/src/main/cpp/PjSipModule.cpp.o	65a4a2aa39c7052b
+3951	4811	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libPjSipModuleJNI.so	bd3ef8baebe3c6e7
+14	1344	0	CMakeFiles/PjSipModuleJNI.dir/src/main/cpp/PjSipModuleJNI.cpp.o	e9f33fde1837e723
+13	1356	0	CMakeFiles/PjSipModuleJNI.dir/src/main/cpp/PjSipModule.cpp.o	65a4a2aa39c7052b
+1356	2060	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libPjSipModuleJNI.so	bd3ef8baebe3c6e7
